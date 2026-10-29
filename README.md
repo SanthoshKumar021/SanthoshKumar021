@@ -29,7 +29,7 @@ Frontend-focused developer who enjoys turning ideas into clean, responsive, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
 
 **Backend & Data**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -54,11 +54,9 @@ Frontend-focused developer who enjoys turning ideas into clean, responsive, and 
 
 <!-- Replace these placeholders with links to your best repositories. -->
 
-- **Project Name** — A short description of what it does and the problem it solves.  
-  `Tech stack: React, TypeScript, ...` · [View repository](https://github.com/)
+- **Intership Application** — Developed a company internship website using React, allowing users to explore internship opportunities and submit applications online. Integrated Resend for email notifications and deployed the website on Render.  
+   [View repository](https://github.com/SanthoshKumar021/Intership_page-2.O) [link] (https://paradora.me/)
 
-- **Project Name** — A short description of another project you're proud of.  
-  `Tech stack: ...` · [View repository](https://github.com/)
 
 ## 📊 GitHub Activity
 
