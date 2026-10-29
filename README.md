@@ -73,10 +73,9 @@ Frontend-focused developer who enjoys turning ideas into clean, responsive, and 
 
 I'm open to connecting with developers, learning from the community, and collaborating on meaningful projects.
 
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Portfolio:** Add your portfolio URL, if available
-- **Email:** Add a public contact email only if you want it visible
-
+- **LinkedIn:** www.linkedin.com/in/santcse21
+- **Portfolio:** https://portfolio1-1-pb2j.onrender.com/
+- **Email:** santcse21@gmail.com
 ---
 
 <div align="center">
